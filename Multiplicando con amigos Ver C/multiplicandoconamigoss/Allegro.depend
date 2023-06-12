@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1343247345 source:c:\users\david\desktop\allegrp\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341432202 c:\users\david\desktop\allegrp\inicia.h
+
+1355455235 source:c:\users\david\desktop\allegrp\main.cpp
+	<allegro.h>
+	"inicia.h"
+	"inica2.h"
+
+1355455224 source:c:\users\david\desktop\allegrp\inica2.cpp
+	"inica2.h"
+	<allegro.h>
+
+1355455224 c:\users\david\desktop\allegrp\inica2.h
+
+1343247345 source:c:\users\david\downloads\allegrp\allegrp\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341432202 c:\users\david\downloads\allegrp\allegrp\inicia.h
+
+1402160894 source:c:\users\ronal\downloads\codeblocks\templete allegro\allegrp\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341432202 c:\users\ronal\downloads\codeblocks\templete allegro\allegrp\inicia.h
+
+1402167405 source:c:\users\ronal\downloads\codeblocks\templete allegro\allegrp\main.cpp
+	<allegro.h>
+	<ctime>
+	"inicia.h"
+
+1355451624 c:\users\ronal\downloads\codeblocks\templete allegro\allegrp\inica2.h
+
+1402160894 source:c:\users\ronal\downloads\codeblocks\templete allegro\juego_ruleta\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341432202 c:\users\ronal\downloads\codeblocks\templete allegro\juego_ruleta\inicia.h
+
+1402447139 source:c:\users\ronal\downloads\codeblocks\templete allegro\juego_ruleta\main.cpp
+	<allegro.h>
+	<ctime>
+	"inicia.h"
+
+1402160896 source:c:\users\andres\desktop\templete allegro\juego_ruleta\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341432204 c:\users\andres\desktop\templete allegro\juego_ruleta\inicia.h
+
+1402447140 source:c:\users\andres\desktop\templete allegro\juego_ruleta\main.cpp
+	<allegro.h>
+	<ctime>
+	"inicia.h"
+
+1403055705 source:c:\users\andres\desktop\juego allegro\juego_ruleta\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341432204 c:\users\andres\desktop\juego allegro\juego_ruleta\inicia.h
+
+1403058078 source:c:\users\andres\desktop\juego allegro\juego_ruleta\main.cpp
+	<allegro.h>
+	"inicia.h"
+
+1403055705 source:c:\users\ing.andres\desktop\java\juego_ruleta\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341432204 c:\users\ing.andres\desktop\java\juego_ruleta\inicia.h
+
+1403065056 source:c:\users\ing.andres\desktop\java\juego_ruleta\main.cpp
+	<allegro.h>
+	"inicia.h"
+
+1403062905 source:c:\users\marce\onedrive\documentos\codeblocks\juego_ruleta\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341439404 c:\users\marce\onedrive\documentos\codeblocks\juego_ruleta\inicia.h
+
+1403072256 source:c:\users\marce\onedrive\documentos\codeblocks\juego_ruleta\main.cpp
+	<allegro.h>
+	"inicia.h"
+
+1403062906 source:c:\users\marce\onedrive\documentos\codeblocks\multiplicandoconamigoss\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341439404 c:\users\marce\onedrive\documentos\codeblocks\multiplicandoconamigoss\inicia.h
+
+1403072258 source:c:\users\marce\onedrive\documentos\codeblocks\multiplicandoconamigoss\main.cpp
+	<allegro.h>
+	"inicia.h"
+
